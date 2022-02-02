@@ -3,14 +3,12 @@
 StarLife adalah perushaan furniture yang mengedepankan kenyaman bagi para penggunanya.
 # Feature
 #  Plugisns & Usage
-# Dengan CSS kami dapat membuat sebuah tampilan desain website semenarik mungkin.
-# HTML for WrodPress
-# "Kami menggunakan HTML untuk membuat dan menyusun halaman website.
+Dengan CSS kami dapat membuat sebuah tampilan desain website semenarik mungkin.
+HTML for WrodPress
 # Configur
-# Add Custom JavaScript & CSS
-# Copyright 
+Add Custom JavaScript & CSS
+#  Copyright 
 Kewirausahaan berbasis Teknologi
-
 Yusril Mauluddin Mahendra 
 Marselya Loamy
 Anggita Salsabilla Salma
